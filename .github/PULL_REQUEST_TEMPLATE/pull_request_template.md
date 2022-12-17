@@ -32,3 +32,5 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] My changes generate no new warnings
 - [ ] New and existing unit tests pass locally with my changes
+- [ ] I've run linter, prettier, and removed all `console.log`
+- [ ] I've reverted all the files back that are not related to the issue (App.js, index.js, ...)

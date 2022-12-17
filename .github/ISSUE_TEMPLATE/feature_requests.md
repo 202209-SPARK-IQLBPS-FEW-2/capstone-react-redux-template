@@ -1,20 +1,15 @@
 ---
-name: Feature Request 💡
-about: Suggest a new idea for the project.
+name: New Feature 💡
+about: Adding new feature to the project.
 labels: enhancement
 ---
 
 ## Summary
 
-Brief explanation of the feature.
+Brief explanation of the feature (task).
 
 ### Screenshots
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain the feature.
 
-### Basic example
-
-If the proposal involves a new or changed API, include a basic code example. Omit this section if it's not applicable.
-
-### Motivation
-
-Why are we doing this? What use cases does it support? What is the expected outcome?
+### Constriants / Details
+What are the constraints for this feature. If there is any more details add below.
